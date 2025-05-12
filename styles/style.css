@@ -30,6 +30,10 @@
   line-height: 100%;
 }
 
+.link-active {
+  list-style: none;
+}
+
 .header__links-list-item_no-bullit {
   list-style: none;
 }
